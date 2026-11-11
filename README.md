@@ -1,11 +1,4 @@
 # SafeRoute — Community-Powered Journey Safety
-## BY BATCH-6 SAFE ROUTE TEAM
-  UNDER THE COURSE OF ADVANCED PROGRAMMING PRACTICE (APP)
-## TEAM MEMBERS :
-- ANANTA NARAYANAN.V - RA2511003050317
-- NIVASH S - RA2511003050316
-- BALASUBRAMANIAM S B - RA2511003050313
-- SANJAY S - RA2511003050323
 
 SafeRoute is a Python desktop application prototype that combines route planning, community-submitted observations, geographical location intelligence, and explainable journey-risk analysis. It uses a Python backend with an embedded web interface. OpenStreetMap is the default provider; Google Maps Platform and compatible custom/local map services are optional.
 
