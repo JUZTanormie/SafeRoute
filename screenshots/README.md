@@ -9,5 +9,3 @@ The following captures are included from the final desktop UI rendered by the ru
 - `05_advanced_analysis.png` — Advanced Analysis page before a journey is calculated.
 
 **Before final submission:** run SafeRoute on the target Windows PC after installing `requirements.txt`, calculate a real route, and replace the empty-state captures with screenshots showing the actual safety assessment, confidence/data coverage, briefing, route hotspots and interactive OpenStreetMap map. Capture a separate report-map screenshot if useful.
-
-Do not include API keys, tokens, private addresses, personal report descriptions or other identifying information in screenshots.
