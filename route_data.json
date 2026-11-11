@@ -1,0 +1,31 @@
+{
+    "route_name": "Route A",
+    "distance_km": 65,
+    "estimated_time_min": 85,
+    "segments": [
+        {
+            "id": 1,
+            "name": "Segment 1"
+        },
+        {
+            "id": 2,
+            "name": "Segment 2"
+        },
+        {
+            "id": 3,
+            "name": "Segment 3"
+        },
+        {
+            "id": 4,
+            "name": "Segment 4"
+        },
+        {
+            "id": 5,
+            "name": "Segment 5"
+        },
+        {
+            "id": 6,
+            "name": "Segment 6"
+        }
+    ]
+}
